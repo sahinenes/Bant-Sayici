@@ -1,4 +1,10 @@
 ### Bant Sayıcı
+### Araç ve Gereçler
+- Atmega328p (Arduino)
+- hcsr-04
+- 4x4 keypad
+- i2c 16x2 lcd
+- Atmel Studio
 ### Amaç
 - Bir hareketli bant daki üretilen ürün sayısı gözlemlemek
 ### Kullanım
